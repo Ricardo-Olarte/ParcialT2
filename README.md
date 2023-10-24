@@ -44,5 +44,10 @@ _______________________
 ![](https://github.com/Ricardo-Olarte/ParcialT2/blob/main/Img/local-dokcer.PNG)
 
 _______________________
+## AWS
+
+
+
+_______________________
 ## Licencia
 Derechos Ricard Olarte - 2023

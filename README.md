@@ -31,6 +31,8 @@ http://localhost:4567/collatzsequence?value=
 ```
 docker-compose up -d
 ```
+Lo siguiente es su visualizacion
+![](https://github.com/Ricardo-Olarte/ParcialT2/blob/main/Img/docker.png)
 
 _______________________
 ## Visualización desde el localhost

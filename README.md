@@ -11,17 +11,31 @@ _______________________
 
 ## Instalación
 1. Clonamos el repositorio de git
-
-
+```
 https://github.com/Ricardo-Olarte/ParcialT2.git
+```
 
 2. Luego desde nuestro cmd, nos dirigimos a la carpeta donde se encuentra descargada, y utilizamos el comando
-   mvn clean install
+```
+mvn clean install
+```
 3. Luego utilizamos el siguiente comando
-   java -cp "target/classes;target/dependency/*" co.edu.escuelaing.arep.collatz.Collatz
-5.
- 
+```
+java -cp "target/classes;target/dependency/*" co.edu.escuelaing.arep.collatz.Collatz
+```
+4. Entramos al localhost de la pagina, y despues de value= puedes poner el numero que desees
+```
+http://localhost:4567/collatzsequence?value=
+```
+5. El siguiente comando utilizamos para docker
+```
+docker-compose up -d
+```
 
 _______________________
-## Licensia
+## Visualización desde el localhost
+
+
+_______________________
+## Licencia
 Derechos Ricard Olarte - 2023

@@ -35,6 +35,10 @@ docker-compose up -d
 _______________________
 ## Visualización desde el localhost
 
+1. Localhost
+![](https://github.com/Ricardo-Olarte/ParcialT2/blob/main/Img/localhost.png)
+
+2. Docker
 
 _______________________
 ## Licencia

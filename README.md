@@ -39,6 +39,7 @@ _______________________
 ![](https://github.com/Ricardo-Olarte/ParcialT2/blob/main/Img/localhost.png)
 
 2. Docker
+![](https://github.com/Ricardo-Olarte/ParcialT2/blob/main/Img/local-dokcer.PNG)
 
 _______________________
 ## Licencia

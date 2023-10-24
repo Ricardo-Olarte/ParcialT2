@@ -46,8 +46,10 @@ _______________________
 _______________________
 ## AWS
 
+El siguiente para desde la nube amazon, el video esta en este repositorio directorio video.
+Nota: Recuerda elegir el numero que desees
 ```
-ec2-54-159-125-113.compute-1.amazonaws.com
+ec2-54-159-125-113.compute-1.amazonaws.com:34000/collatzsequence?value=
 ```
 
 _______________________
